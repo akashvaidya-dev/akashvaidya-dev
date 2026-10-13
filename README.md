@@ -1,20 +1,90 @@
-<h1 align="center">Hi 👋, I'm Akash Vaidya</h1>
-<h3 align="center">A passionate frontend Flutter mobile applications developer from India</h3>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<div align="center">
 
-- 🔭 I’m currently working on [VedicMitra pooja app](https://github.com/arao62916-sys/VedicMitra.git)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=230&section=header&text=Akash%20Vaidya&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Mobile%20App%20Developer&descSize=22&descAlignY=60&animation=fadeIn" alt="Akash Vaidya - Flutter Mobile App Developer" width="100%" />
 
-- 🌱 I’m currently learning **React, Python, backend development, API integration, and full-stack application development.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=13B9FD&center=true&vCenter=true&width=720&height=45&lines=Flutter+%26+Dart+Developer;Crafting+cross-platform+mobile+apps;Expanding+into+React%2C+Python+%26+Full-Stack" alt="Typing animation" />
 
-- 👨‍💻 All of my projects are available at [akashvadya.cv](akashvadya.cv)
+<br/>
 
-- 💬 Ask me about **💬Flutter, Dart, Firebase, REST APIs, React, Python, and Mobile App Development.**
+<a href="https://akashvadya.cv"><img src="https://img.shields.io/badge/Portfolio-akashvadya.cv-02569B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:raoakash606@gmail.com"><img src="https://img.shields.io/badge/Email-raoakash606%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://instagram.com/aakash.rao1"><img src="https://img.shields.io/badge/Instagram-%40aakash.rao1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://github.com/arao62916-sys?tab=followers"><img src="https://img.shields.io/github/followers/arao62916-sys?style=for-the-badge&logo=github&logoColor=white&color=181717&label=Followers" alt="GitHub followers" /></a>
 
-- 📫 How to reach me **raoakash606@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/aakash.rao1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakash.rao1" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<h2 align="center">👨‍💻 About Me</h2>
+
+I'm a frontend-focused **Flutter mobile developer from India** who enjoys building clean, responsive cross-platform apps with Flutter and Dart. I'm now broadening my skill set into **full-stack development**: React, Python, backend services and API integration, so I can take products from interface to server end to end.
+
+| | |
+|:--|:--|
+| 🔭 **Building** | [VedicMitra](https://github.com/arao62916-sys/VedicMitra), a pooja app |
+| 🌱 **Learning** | React · Python · Backend Development · API Integration · Full-Stack Development |
+| 💬 **Ask me about** | Flutter, Dart, Firebase, REST APIs, React, Python and Mobile App Development |
+| 🌐 **Portfolio** | [akashvadya.cv](https://akashvadya.cv): all my projects in one place |
+| 📫 **Reach me** | [raoakash606@gmail.com](mailto:raoakash606@gmail.com) |
+
+<br/>
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+
+| Area | Technologies |
+|:--|:--|
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart,android" alt="Flutter, Dart, Android" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=dart,python,js,java,c,cpp" alt="Dart, Python, JavaScript, Java, C, C++" /> |
+| **Web** | <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript, React" /> |
+| **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mongodb" alt="Node.js, Python, Firebase, MongoDB" /> |
+| **Tools & Design** | <img src="https://skillicons.dev/icons?i=git,postman,figma,linux" alt="Git, Postman, Figma, Linux" /> |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ FEATURED PROJECT ═══════════════════════════ -->
+<h2 align="center">🚀 Featured Project</h2>
+
+<div align="center">
+
+<a href="https://github.com/arao62916-sys/VedicMitra">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arao62916-sys&repo=VedicMitra&theme=tokyonight&hide_border=true" alt="VedicMitra repository card" />
+</a>
+
+<sub>Currently in active development. See more of my work at <a href="https://akashvadya.cv">akashvadya.cv</a></sub>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arao62916-sys&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arao62916-sys&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=arao62916-sys&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<div align="center">
+
+<h3>🤝 Let's build something great together</h3>
+
+<a href="mailto:raoakash606@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-02569B?style=for-the-badge&logo=maildotru&logoColor=white" alt="Get in touch" /></a>
+<a href="https://akashvadya.cv"><img src="https://img.shields.io/badge/View%20my%20work-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" alt="View my work" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=120&section=footer" alt="" width="100%" />
+
+</div>

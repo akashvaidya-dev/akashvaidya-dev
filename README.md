@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/akashvaidya-dev"><img src="https://img.shields.io/badge/GitHub-akashvaidya--dev-0B1C2C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://akashvadya.cv"><img src="https://img.shields.io/badge/Portfolio-akashvadya.cv-02569B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://akashvaidya.cv"><img src="https://img.shields.io/badge/Portfolio-akashvadya.cv-02569B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:raoakash606@gmail.com"><img src="https://img.shields.io/badge/Email-raoakash606%40gmail.com-0E4F86?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://instagram.com/aakash.rao1"><img src="https://img.shields.io/badge/Instagram-%40aakash.rao1-13B9FD?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
